@@ -5,15 +5,17 @@
 
 也许，你还可以去我的[博客](https://wuyuan.dev)看看？
 
----
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api?username=SUNWUYUAN&theme=github_dark&show_icons=true)](https://github.com/SUNWUYUAN)
+
+---
 #### 我使用的语言
 
 <!-- github-stats:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api?username=SUNWUYUAN&theme=github_dark&show_icons=true)](https://github.com/SUNWUYUAN)
+
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- github-stats:end -->
