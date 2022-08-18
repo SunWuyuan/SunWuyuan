@@ -12,11 +12,13 @@
 <!-- github-stats:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=SUNWUYUAN&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api?username=SUNWUYUAN&theme=github_dark&show_icons=true)](https://github.com/SUNWUYUAN)
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- github-stats:end -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUNWUYUAN&layout=compact&theme=github_dark)](https://github.com/SUNWUYUAN)
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -53,3 +55,5 @@
 <code><img height="200" src="https://img.wuyuan.dev/wxzf.png" alt="微信支付" /></code>
 
 我将感激不尽🥳🥳🥳
+
+
