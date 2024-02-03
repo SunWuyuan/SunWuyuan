@@ -1,6 +1,6 @@
 ![](https://count.getloli.com/get/@sunwuyuan?theme=gelbooru)
 # 你好，我是[孙悟元](https://wuyuan.dev)
-我是一名来自中国的初中学生，我喜欢一切有趣的事物，并为之不断努力。
+我是一名来自中国的初中学生
 ![](https://raw.githubusercontent.com/sunwuyuan/sunwuyuan/main/assets/github-contribution-grid-snake.svg)
 
 我的代码可能写的不是很好，我也不经常在线，如果需要联系请发邮件给sun@wuyuan.dev
