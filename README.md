@@ -5,7 +5,7 @@
 ![](https://raw.githubusercontent.com/sunwuyuan/sunwuyuan/output/github-contribution-grid-snake-dark.svg)
 
 
-我的代码可能写的不是很好，也不经常在线，如果需要联系请发邮件给sun@wuyuan.dev
+代码写的不是很好，也不经常在线，如果需要联系请发邮件给sun@wuyuan.dev
 
 也许，你还可以去我的[博客](https://wuyuan.dev)看看？
 
