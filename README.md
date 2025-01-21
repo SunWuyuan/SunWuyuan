@@ -56,10 +56,6 @@
 
 你可以去我的[B站](https://space.bilibili.com/661404066),[知乎](https://www.zhihu.com/people/sunwuyuan),或者我的[博客](https://wuyuan.dev)
 
-当然，我更希望您去[爱发电](https://afdian.net/@wuyuan)或者扫描这个二维码：
-
-<code><img height="200" src="https://img.wuyuan.dev/wxzf.png" alt="微信支付" /></code>
-
-我将感激不尽🥳🥳🥳
+欢迎给我[爱发电](https://ifdian.net/@wydev)，十分感谢🥳🥳🥳
 
 
